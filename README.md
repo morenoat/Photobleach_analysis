@@ -13,6 +13,7 @@ This repository contains a MATLAB-based tool for analyzing photobleaching events
   - [4. Identify Photobleaching Events](#4-identify-photobleaching-events)
 - [Contributing](#contributing)
 - [License](#license)
+- [Citations](#citations)
 
 ## Prerequisites
 
@@ -101,3 +102,12 @@ Contributions are welcome! Please fork this repository and submit a pull request
 ## License
 
 This project is licensed under the MIT License.
+
+## Citations
+
+For further reading and background on photobleaching analysis methodologies used in this tool, please refer to the following publications:
+
+1. Bossaert, M., Moreno, A. T., Peixoto, A., Pillaire, M. J., Chanut, P., Frit, P., Calsou, P., Loparo, J. J., & Britton, S. (2024). Identification of the main barriers to Ku accumulation in chromatin. *Cell Reports, 43*(8), 114538. [https://doi.org/10.1016/j.celrep.2024.114538](https://doi.org/10.1016/j.celrep.2024.114538)
+
+2. Moreno, A. T., & Loparo, J. J. (2024). Measuring protein stoichiometry with single-molecule imaging in Xenopus egg extracts. *Methods in Enzymology, 705*, 427–474. [https://doi.org/10.1016/bs.mie.2024.07.015](https://doi.org/10.1016/bs.mie.2024.07.015)
+
